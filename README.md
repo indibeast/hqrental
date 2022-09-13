@@ -6,7 +6,7 @@ Please note this is only tested with PHP 8.1 and follow the mentioned steps to s
 2. Please update the `.env` file with correct values
 3. Finally, run `php artisan db:seed` to seed the product data
 
-After above steps if you request GET `/products` you should see a JSON response of the products 
+After above steps if you request GET `/api/products` you should see a JSON response of the products 
 
 ## Testing
 
